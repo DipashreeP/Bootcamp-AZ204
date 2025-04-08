@@ -5,7 +5,7 @@ import CustomerForm from './components/CustomerForm'
 function App() {
   const [coffeesServed, setCoffeesServed] = useState(0)
   const quotes = [
-    "Coffee: because adulting is hard",
+    "Coffee : because adulting is hard",
     "But first, coffee",
     "Life happens, coffee helps",
     "Rise and grind",

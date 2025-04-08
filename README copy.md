@@ -1,6 +1,3 @@
-# Bootcamp-AZ204
-repository for az204 bootcamp 
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
